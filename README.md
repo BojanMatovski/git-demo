@@ -2,7 +2,7 @@
 
 This is the first file in this repository.
 
-## Webdiste Contents
+## Website Contents
 
 Here are the files in our website.
 
